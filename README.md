@@ -5,34 +5,24 @@ Here are the characters you can type using the number row on your keyboard with 
 - Shift-1: !
   - Exclamation mark
 
-- Shift-2: @
-  - At sign
+- Shift-2: @  At sign
 
-- Shift-3: #
-  - Hash
+- Shift-3: #  Hash
 
-- Shift-4: $
-  - Dollar sign
+- Shift-4: $  Dollar sign
 
-- Shift-5: %
-  - Percent sign
+- Shift-5: %  Percent sign
 
-- Shift-6: ^
-  - Caret
+- Shift-6: ^  Caret
 
-- Shift-7: &
-  - And sign
+- Shift-7: &  And sign
 
-- Shift-8: *
-  - Star
+- Shift-8: *  Star
 
-- Shift-9: (
-  - Left parenthesis
-  - Opening bracket
+- Shift-9: (  Left parenthesis
+- 
+- Shift-0: )  Right parenthesis
 
-- Shift-0: )
-  - Right parenthesis
-  - Closing bracket
 
 ---
 
