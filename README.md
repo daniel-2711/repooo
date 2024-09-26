@@ -2,8 +2,7 @@
 
 Here are the characters you can type using the number row on your keyboard with the Shift key pressed:
 
-- Shift-1: !
-  - Exclamation mark
+- Shift-1: !  Exclamation mark
 
 - Shift-2: @  At sign
 
