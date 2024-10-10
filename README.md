@@ -40,3 +40,4 @@ Here are some emojis:
 - 🚀 Rocket
 - 🐱 Cat Face
 - 📚 Books
+[CLI commands](docs/cli.md)
